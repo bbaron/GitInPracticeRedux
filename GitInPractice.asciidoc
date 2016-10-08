@@ -7,3 +7,5 @@ Git in Practice
  Improved comic timing
 
  test git push simple mode
+
+ test git fetch mode
