@@ -1,4 +1,4 @@
-Git in Practice
+= Git in Practice
 
  Opening joke
 
@@ -9,3 +9,5 @@ Git in Practice
  test git push simple mode
 
  test git fetch mode
+
+== Chapter 2
